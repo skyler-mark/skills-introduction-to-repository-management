@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @skyler-mark
+/src/backend/database.py      @skyler-mark
+/src/backend/routers/auth.py  @skyler-mark
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @skyler-mark
